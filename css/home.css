@@ -1,0 +1,51 @@
+/*#### Default#####*/
+footer{
+    background-color: #5bc0de;
+    color: white;
+}
+/*#### Default#####*/
+
+
+
+
+/*####Nav Bar####*/
+
+/*####Nav Bar####*/
+
+
+
+/*#####Custom Styles######*/
+.footAcc{
+    color: white;
+}
+
+.footAcc:hover{
+    color: red;
+}
+
+/*#####Custom Styles######*/
+
+
+
+
+/*#####Mobile Styles######*/
+@media (max-width: 767px) {
+
+    .card{
+        width: 250px;
+        height: auto;
+    }
+
+    .space{
+        margin: auto;
+    }
+
+    .centered{
+        margin-bottom: 30px;
+    }
+    
+    
+
+}
+/*#####Mobile Styles######*/
+
